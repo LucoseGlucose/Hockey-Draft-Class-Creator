@@ -1,0 +1,50 @@
+1. Fred poop--Right Wing--Canada--6,6 ft--204 lb
+2. Mike oooooooo--Defenseman--Canada--6,4 ft--194.5 lb
+3. john Johnson--Center--Canada--6,5 ft--181.25 lb
+4. Paul ppeee--Defenseman--Canada--6,7 ft--186.25 lb
+5. Mike poop--Left WIng--Canada--5,10 ft--171 lb
+6. Mike poop--Goalie--Canada--6,4 ft--202 lb
+7. lucas poop--Center--Canada--5,7 ft--202.25 lb
+8. lucas oooooooo--Left WIng--Canada--6,7 ft--215.75 lb
+9. Paul ppeee--Defenseman--Canada--6,7 ft--196.75 lb
+10. Mike Johnson--Center--Canada--6,1 ft--185.25 lb
+11. john pp--Left WIng--Canada--6,2 ft--180 lb
+12. lucas Johnson--Center--Canada--5,8 ft--172.5 lb
+13. lucas pp--Left WIng--Canada--6,2 ft--187 lb
+14. Fred pee--Center--Canada--6,1 ft--178.75 lb
+15. Paul pee--Left WIng--Canada--5,6 ft--174 lb
+16. lucas oooooooo--Goalie--Canada--6,7 ft--187.75 lb
+17. john oooooooo--Right Wing--Canada--6,6 ft--187 lb
+18. Fred oooooooo--Defenseman--Canada--6,4 ft--186.5 lb
+19. Paul oooooooo--Right Wing--Canada--5,4 ft--180 lb
+20. john poop--Left WIng--Canada--6,0 ft--180.5 lb
+21. Fred pee--Right Wing--Canada--6,4 ft--197.5 lb
+22. lucas ppeee--Left WIng--Canada--5,4 ft--186 lb
+23. Mike pp--Center--Canada--6,0 ft--191 lb
+24. lucas pee--Center--Canada--6,2 ft--207.5 lb
+25. john pee--Defenseman--Canada--5,8 ft--165 lb
+26. john poop--Right Wing--Canada--5,6 ft--193 lb
+27. Fred pp--Center--Canada--5,9 ft--168.25 lb
+28. Paul pp--Goalie--Canada--5,9 ft--186.75 lb
+29. Paul poop--Left WIng--Canada--6,4 ft--204.5 lb
+30. Paul poop--Right Wing--Canada--5,9 ft--201.75 lb
+31. lucas poop--Right Wing--Canada--5,6 ft--171 lb
+32. lucas pp--Defenseman--Canada--6,3 ft--188.25 lb
+33. john poop--Defenseman--Canada--6,4 ft--188 lb
+34. Paul pee--Goalie--Canada--5,7 ft--199.25 lb
+35. john Johnson--Right Wing--Canada--5,4 ft--198.5 lb
+36. john ppeee--Center--Canada--5,11 ft--195.25 lb
+37. john pp--Left WIng--Canada--6,7 ft--205.75 lb
+38. john pee--Goalie--Canada--6,2 ft--209 lb
+39. Fred poop--Goalie--Canada--5,4 ft--162.5 lb
+40. lucas poop--Defenseman--Canada--5,6 ft--170 lb
+41. Mike pee--Center--Canada--5,6 ft--194 lb
+42. john poop--Right Wing--Canada--6,6 ft--213.5 lb
+43. lucas pp--Left WIng--Canada--6,7 ft--194.25 lb
+44. Mike pp--Goalie--Canada--5,10 ft--201.5 lb
+45. Fred oooooooo--Right Wing--Canada--5,4 ft--189.5 lb
+46. john ppeee--Goalie--Canada--6,5 ft--194.75 lb
+47. john ppeee--Left WIng--Canada--6,0 ft--199.5 lb
+48. Mike pp--Defenseman--Canada--5,4 ft--175 lb
+49. Mike ppeee--Goalie--Canada--5,9 ft--191.25 lb
+50. Fred Johnson--Right Wing--Canada--6,5 ft--215.75 lb
